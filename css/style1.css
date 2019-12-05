@@ -9,3 +9,25 @@
     height: 50%;
     box-shadow: 5px 5px 5px #666;
 }
+.btn{
+    position: absolute;
+    font-family: arial;
+    text-transform: uppercase;
+    font-size:20px;
+    width:150px;
+    height:30px;
+    border-radius: 80px;
+    line-height: 30px;
+    text-align: center;
+    border:2px solid #009688;
+    display:block;
+    text-decoration: none;
+    margin-left:55%;
+    margin-top:40px;
+    color:#009688;
+}
+
+.btn:hover{
+    color: #000;
+   
+}
